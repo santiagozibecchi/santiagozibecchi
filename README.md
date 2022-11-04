@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+### Desarrollador Frontend
+Todos los trabajos que realize hasta el momento son en React, React-Native y Node
+
+Temas desarrollados:
+* TypeScript
+* Patrones de diseño
+* Framework Next js
+* React Hooks Form
+* Formik
+* Context
+* Redux - Redux-Toolkit
+* Sass
+
+Tambien tengo conocimiento de Node ya que en muchos de mis proyecto realicé despliegues de varias API en heroku para poder consumirlas con react.
+
+
+
 <!--
 **santiagozibecchi/santiagozibecchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
