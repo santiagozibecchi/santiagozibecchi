@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hola 👋
 
 ### Desarrollador Frontend
-Todos los trabajos que realize hasta el momento son en React, React-Native y Node
+Todos los proyectos que hice hasta el momento son en React, React-Native y Node
 
 Temas desarrollados:
 * TypeScript
@@ -10,10 +10,10 @@ Temas desarrollados:
 * React Hooks Form
 * Formik
 * Context
-* Redux - Redux-Toolkit
+* Redux - Redux - Toolkit
 * Sass
 
-Tambien tengo conocimiento de Node ya que en muchos de mis proyecto realicé despliegues de varias API en heroku para poder consumirlas con react.
+Tambien tengo conocimiento de Node ya que en muchos de mis proyectos realicé despliegues de varias API en heroku para poder consumirlas con react.
 
 
 
