@@ -5,6 +5,7 @@ Todos los proyectos que hice hasta el momento son en React, React-Native y Node
 
 Temas desarrollados:
 * TypeScript
+* Principios SOLID y clean Code
 * Patrones de diseño
 * Framework Next js
 * React Hooks Form
