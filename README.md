@@ -13,6 +13,7 @@ Temas desarrollados:
 * Context
 * Redux - Redux - Toolkit
 * Sass
+* Tailwind
 
 Tambien tengo conocimiento de Node ya que en muchos de mis proyectos realicé despliegues de varias API en heroku para poder consumirlas con react.
 
