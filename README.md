@@ -18,7 +18,9 @@ Habilidades:
 * Control de versiones GIT
 * Node
 
-Actualmente trabajo como Desarrollador frontend en Omnia Salud <img src="https://user-images.githubusercontent.com/103424513/235376354-a9d9ebdf-632a-4af4-8312-0ea522ae1512.png" alt="Salud" width="15px" height="15px">, formo parte del equipo de internacionalización de la plataforma, donde trabajo en colaboración con otros profesionales para desarrollar soluciones eficientes que mejoren la accesibilidad y experiencia de los clientes en todo el mundo. 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/103424513/235376354-a9d9ebdf-632a-4af4-8312-0ea522ae1512.png" alt="Salud" width="50x" height="50x"> <span>Actualmente trabajo como Desarrollador frontend en Omnia Salud, donde formo parte del equipo de internacionalización de la plataforma y trabajo en colaboración con otros profesionales para desarrollar soluciones eficientes que mejoren la accesibilidad y experiencia de los clientes en todo el mundo.</span>
 
 <hr/>
 
